@@ -1,0 +1,2 @@
+# EmoticonRegexString
+Emoticon   String  Regex
